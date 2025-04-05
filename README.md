@@ -4,6 +4,7 @@ This repository contains solutions to 117 SQL queries ranging from beginner to a
 
 
 **Key Highlights 📊**
+
 117 SQL queries addressing different complexity levels 🧑‍💻
 
 Covers topics such as employee demographics, salary analysis, departmental structures, and job classifications 💼
@@ -11,6 +12,7 @@ Covers topics such as employee demographics, salary analysis, departmental struc
 Practical examples for learning and practicing SQL 📚
 
 **Technologies ⚙️**
+
 SQL 🖥️
 
 HR Database Schema 🏢
