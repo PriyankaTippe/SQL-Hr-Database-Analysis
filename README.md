@@ -13,6 +13,6 @@ Practical examples for learning and practicing SQL 📚
 
 **Technologies ⚙️**
 
-SQL 🖥️
+MYSQL 🖥️
 
 HR Database Schema 🏢
